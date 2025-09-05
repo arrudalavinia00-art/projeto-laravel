@@ -1,9 +1,8 @@
 <!DOCTYPE html>
-</html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="Desenvolvedora em treinamento, apaixonada por tecnologia e inovação.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Estudante de tecnologia" >
     <meta name= "Maria Batista">
     <title>Maria - Cartão de Visita</title>
